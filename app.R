@@ -258,7 +258,7 @@ shinyApp(
                        br(),
                        h4("Code"),
                        p("You can find the code used to build this Shiny app here: ",
-                         a("GitHub", href = "https://github.com/SaraGarcesCespedes/Repositorio")),
+                         a("GitHub", href = "https://github.com/SaraGarcesCespedes/CORONAVIRUS-APP")),
                        br(),
                        h4("Source"),
                        p("You can find the datasets used to build this Shiny app here: "),
