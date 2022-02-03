@@ -1,3 +1,3 @@
 # CORONAVIRUS-APP
 
-En este repositorio se encuentra el código utilizado para la construcción de una aplicación Shiny relacionada con la pandemia del COVID-19.
+In this repository you will find the code used to build a Shiny App related to the COVID-19 pandemic.
